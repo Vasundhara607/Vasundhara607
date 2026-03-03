@@ -1,16 +1,47 @@
-## Hi there 👋
+# Vasundhara Rao
 
-<!--
-**Vasundhara607/Vasundhara607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[📧 vasundhararao2011@gmail.com](mailto:vasundhararao2011@gmail.com) | [📞 +1-6674190756](tel:+16674190756) | [🌐 LinkedIn](https://linkedin.com/in/Vasundhara_Rao) | [💻Github](https://github.com/Vasundhara607)|[📍 Atlanta, GA](https://www.google.com/maps/place/Atlanta,+GA)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Profile Summary
+
+Versatile **Data Analyst** and **Graduate Assistant** with a strong foundation in **Machine Learning**, **NLP**, and **Big Data Analytics**.Currently pursuing an MS in Information Systems at **Georgia State University**, I specialize in transforming complex datasets into actionable insights through automation and advanced visualization. With professional experience at **Bank of America**, I have a proven track record of optimizing workflows and enhancing operational efficiency through data-driven decision-making.
+
+---
+
+## 🎓 Education
+
+**Master of Science in Information Systems** *Georgia State University – J. Mack Robinson College of Business* 
+ Atlanta, GA |Jan 2025-May 2026(*Expected*).  
+*Concentration in Big Data Analytics and Management*.
+
+**Bachelor of Technology in Information Technology** 
+*B.V. Raju Institute of Technology* 
+Hyderabad, India | 2019 – 2023
+
+---
+
+## 🛠 Skills & Tools
+
+* **Programming:** Python (NumPy, Pandas, Scikit-learn), R, SQL
+* **AI & Machine Learning:** NLP, Large Language Models (RAG), Model Evaluation.
+* **Data Visualization:** Tableau, Power BI.
+* **Cloud & Tools:** AWS (S3, EC2, Lambda, Bedrock), LangChain, MySQL, Alteryx.
+* **Data Management:** Data Warehousing, SDLC, Statistical Analysis.
+
+---
+
+## 🚀 Featured Projects
+
+* **GenAI-Powered Agriculture Services Platform:** Designed SQL pipelines and integrated structured outputs into an AI-powered RAG system.
+* **Airbnb Price Prediction:** Built a machine learning pipeline using a Random Forest Regressor to improve prediction accuracy.
+* **Financial Times Dashboard:** Created interactive Tableau dashboards to analyze institutional performance and ranking patterns.
+
+---
+
+## 🏆 Achievements
+
+* **Bronze Award (Bank of America):** Recognized for exceptional performance in change management analysis and data quality resolution.
+* **Google Data Analytics Certifications:** Skilled in data foundations, cleaning, and analysis.
+
