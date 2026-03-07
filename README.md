@@ -6,7 +6,7 @@
 
 ## 🧠 Profile Summary
 
-Versatile **Data Analyst** and **Graduate Assistant** with a strong foundation in **Machine Learning**, **NLP**, and **Big Data Analytics**.Currently pursuing an MS in Information Systems at **Georgia State University**, I specialize in transforming complex datasets into actionable insights through automation and advanced visualization. With professional experience at **Bank of America**, I have a proven track record of optimizing workflows and enhancing operational efficiency through data-driven decision-making.
+**Data Analyst** and **Graduate Research Assistant** with a strong foundation in **Machine Learning**, **NLP**, and **Big Data Analytics** and **Cloud Computing**.Currently pursuing an MS in Information Systems at **Georgia State University**, I specialize in transforming complex datasets into actionable insights through automation and advanced visualization. With professional experience at **Bank of America**, I have a proven track record of optimizing workflows and enhancing operational efficiency through data-driven decision-making.
 
 ---
 
