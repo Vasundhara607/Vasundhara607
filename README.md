@@ -36,7 +36,7 @@ Hyderabad, India | 2019 – 2023
 
 * **GenAI-Powered Agriculture Services Platform:** Designed SQL pipelines and integrated structured outputs into an AI-powered RAG system.
 * **Airbnb Price Prediction:** Built a machine learning pipeline using a Random Forest Regressor to improve prediction accuracy.
-* **Financial Times Dashboard:** Created interactive Tableau dashboards to analyze institutional performance and ranking patterns.
+* **Conversion Prediction using Clickstream Data:** Designed and implemented a complete AI-driven workflow that predicts whether an e-commerce session will convert (purchase) based on clickstream session data.
 
 ---
 
